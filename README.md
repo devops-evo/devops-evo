@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🔭 I’m currently learning GitHub Security course.
+
+⚡ Fun fact: the more info CTO has, the less actions he can take.
+
 <!--
 **devops-evo/devops-evo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
